@@ -66,4 +66,4 @@ report issues. By integrating a simple yet powerful approach to fetching and dis
 
 learning project for working with APIs, React.js, and backend development with Node.js. 
 
-*OUTPUT* :
+*OUTPUT* : ![Image](https://github.com/user-attachments/assets/a024c026-b4ad-40db-a88d-99a31bd2a289)
