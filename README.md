@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*description of API-Integration Task*: The Weather App is a full-stack web application designed to provide real-time weather updates for any
+*Description of API-Integration Task*: The Weather App is a full-stack web application designed to provide real-time weather updates for any
 
 city worldwide. Using the OpenWeatherMap API, the app retrieves and displays essential weather details such as temperature, weather 
 
